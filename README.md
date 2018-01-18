@@ -1,5 +1,2 @@
 # Project-Euler
-Solutions of Problems from projecteuler.net
-
-I am indefinitely challenging myself to complete at least one challenge from projecteuler.net everyday. This repository contains my
-solutions in Python. 
+This repository is where I will upload the various coding challenges I do. I am challenging myself to do at least one every single day indefinitely, to improve my coding ability and force myself to take initiative to learn more about my field of study outside of course work. 
